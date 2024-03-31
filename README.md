@@ -1,6 +1,6 @@
 # Developing a Search Engine Utilising MapReduce
 ## Assignment # 02 Fundamentals of Big Data Analytics
-### Hasnat Noor Hassan 22i2049 | Hamza Zahid 22i1974 | Umema Ashar 22i2936 | DSC
+### Hasnat Noor Hassan 22i2049 | Hamza Zahid 22i1974 | Umema Ashar 22i2036 | DSC
 
 This repository contains an attemp to a basic approach to developing a Search Engine using MapReduce. It uses a a portion of the English Wikipedia dump
 provided by Wikimedia, which includes around 5 million Wikipedia articles.
